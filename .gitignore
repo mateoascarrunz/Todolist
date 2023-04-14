@@ -1,6 +1,6 @@
 # Ignore node modules
-node_modules/
+node_modules
 
 # Ignore user-specific files
-.vscode/
+.vscode
 .DS_Store
